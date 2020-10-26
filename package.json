@@ -11,5 +11,9 @@
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^5.10.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diazlauren/mean.git"
+  },
 }
